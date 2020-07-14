@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15.5, 47.5" name="magentatraderdb">
+  <DataContextMoniker Name="/magentatraderdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="82be5e86-7c6f-4d32-8c87-79ef58f3a6d4" absoluteBounds="3.75, 46, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/AspNetRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d7e1c044-699f-4e99-8702-9ae4fb5a357f" absoluteBounds="3.765, 46.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb9c0fd8-c81e-435f-9dcc-a67c7af3c922" absoluteBounds="3.5, 10.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnUserFavoritesSymbol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ee70cac3-fdb6-48ae-af7c-b2c7b02febd9" absoluteBounds="3.515, 10.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e7789584-87f3-4a89-a55c-ec792fd7e16b" absoluteBounds="4.5, 43.625, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/magentatraderdbDataContext/AspNetUserClaim" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c2ab97c-957e-4516-a774-2c35ee1faa46" absoluteBounds="4.515, 44.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66b0a81d-193e-46d8-883c-00249f7e5a5f" absoluteBounds="4.5, 33.5, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/magentatraderdbDataContext/AspNetUserLogin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96f38437-9fa0-4f95-8058-0e3dc1b1eca0" absoluteBounds="4.515, 33.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="558ec243-be90-4f5e-86b6-f10cd3f30beb" absoluteBounds="6.5, 36, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/AspNetUserRole" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4826c18a-150f-4aa2-895d-99f4fab0f748" absoluteBounds="6.515, 36.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20da6035-57c2-4e62-ae4b-da520fe15562" absoluteBounds="1.75, 33.625, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/AspNetUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32c73a88-64fe-4470-9c1f-2eae3c929331" absoluteBounds="1.7650000000000001, 34.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5367de09-84f1-42f7-8782-1cdd45ee3838" absoluteBounds="3.75, 6.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstEvent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d937dd1c-49ea-4895-a819-d86666cbb694" absoluteBounds="3.765, 6.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e0c603d3-e43d-4cd8-afda-9f77966abbfe" absoluteBounds="6.75, 7.25, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstNew" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1afd0acf-174f-4db6-82e9-0d7ac033c67f" absoluteBounds="6.765, 7.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7116953b-5cec-4795-a109-4fef7a3cc781" absoluteBounds="4.75, 3.875, 2, 1.1939925130208331">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa2aad0e-cd6f-4d9c-b357-149e2b6bf63d" absoluteBounds="4.765, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d393612-3870-4125-9e9b-70133d626d29" absoluteBounds="7.5, 3, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstProductPackage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4a240769-57c7-4a30-9271-8b845d597fc8" absoluteBounds="7.515, 3.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" absoluteBounds="0.75, 9.625, 2, 9.8475569661458344">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstSymbol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5639665-683d-4ce8-975f-6463be233142" absoluteBounds="0.765, 10.085, 1.9700000000000002, 9.2875569661458321" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7893237d-e142-40f6-bc05-aff37b2f47b8" absoluteBounds="3.5, 28.5, 2, 3.5016097005208309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstSymbolScreener" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45fe36be-086d-4d2a-9836-3c8a84a9c695" absoluteBounds="3.515, 28.96, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" absoluteBounds="1.5, 1.125, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/magentatraderdbDataContext/MstUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2c2c958b-c527-42d8-ab90-943009fc55d9" absoluteBounds="1.5150000000000001, 1.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9f445a0-9f82-4ad8-bb63-5f5786e6360b" absoluteBounds="4.25, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/magentatraderdbDataContext/SysAcessLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2a61396-857d-424c-ae12-954ccb255d45" absoluteBounds="4.265, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1ccaae76-f82b-4be7-a11b-426b24cb14ca" absoluteBounds="9.75, 7.25, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TmpWorkshop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44b81d8a-200b-41be-a515-a318d0dcb9b7" absoluteBounds="9.765, 7.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0516d8ed-e89e-4db9-a09e-b0a62477c029" absoluteBounds="10.25, 2.75, 2, 1.5785953776041661">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnAffiliate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ed8c6a69-243d-4aec-9a28-72142d9e5c52" absoluteBounds="10.265, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5c6ac2c-84d2-45ec-b36c-3582e8018805" absoluteBounds="6.5, 10.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnFavorite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="79dbb29d-1705-4415-993d-11ab6e32bc01" absoluteBounds="6.515, 10.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="70a84bb0-14b5-4a9d-964e-cce4d851ad6b" absoluteBounds="13.25, 1.875, 2, 3.5016097005208331">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnSale" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1aa4ad6b-9a7f-4bb4-8b96-afd05c6de034" absoluteBounds="13.265, 2.335, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6382b7d7-6b11-473e-9f1a-9a07576f6428" absoluteBounds="0.75, 20.875, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnSector" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf224152-bb51-4d34-ae4a-ad69315590b4" absoluteBounds="0.765, 21.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a647a6e9-387b-4d77-a7e1-81b91155cc13" absoluteBounds="3.5, 13.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnSectorSymbol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1de5c2c0-e7aa-4ea7-aa7d-79237beccf9f" absoluteBounds="3.515, 14.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2c71eab3-6ffa-4f24-ac27-6dbe38fc06de" absoluteBounds="3.5, 18.75, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnStockEarning" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7b215b50-9b65-43a5-90db-6dcc93ab2a74" absoluteBounds="3.515, 19.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0730d68f-f11a-4d75-8604-d5439a1b1ab6" absoluteBounds="3.5, 21.875, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnStockPrice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26e7c6a2-6ded-483f-8277-005025a6829d" absoluteBounds="3.515, 22.335, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db18b897-dbc1-467b-86a8-c3ea10f7712b" absoluteBounds="3.5, 25.25, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnStockPriceIntraDay" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43fc016d-34e5-4586-996f-ff298409837b" absoluteBounds="3.515, 25.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f597ad9e-3077-415e-8f71-58169c7b85dd" absoluteBounds="3.75, 36.375, 2, 6.3861311848958309">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnUserAlert" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c0ca1fd5-7f12-4d9e-97dd-68d1de213e0f" absoluteBounds="3.765, 36.835, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8985901c-4fe4-4642-9676-c5d02d6b7559" absoluteBounds="6.5, 13.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnUserAlertSymbol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7c23cb00-90bf-467f-8e08-3b22ee1421ee" absoluteBounds="6.515, 13.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26d0dade-3956-4df9-943e-535a63cca4f7" absoluteBounds="0.75, 5.625, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/magentatraderdbDataContext/TrnUserFavorite" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7047f09f-7d6a-4bc3-bb2e-1a4874216b7e" absoluteBounds="0.765, 6.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 46.5969962565104); (7.53125 : 46.5969962565104); (7.53125 : 37.1939925130208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/AspNetRole/AspNetRole_AspNetUserRole" />
+      <nodes>
+        <classShapeMoniker Id="82be5e86-7c6f-4d32-8c87-79ef58f3a6d4" />
+        <classShapeMoniker Id="558ec243-be90-4f5e-86b6-f10cd3f30beb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.71875 : 35.3958968098958); (2.71875 : 44.4142976888021); (4.5 : 44.4142976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/AspNetUser/AspNetUser_AspNetUserClaim" />
+      <nodes>
+        <classShapeMoniker Id="20da6035-57c2-4e62-ae4b-da520fe15562" />
+        <classShapeMoniker Id="e7789584-87f3-4a89-a55c-ec792fd7e16b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 34.2556469726563); (3.91666666666667 : 34.2556469726563 : JumpStart); (4.08333333333333 : 34.2556469726563 : JumpEnd); (4.5 : 34.2556469726563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/AspNetUser/AspNetUser_AspNetUserLogin" />
+      <nodes>
+        <classShapeMoniker Id="20da6035-57c2-4e62-ae4b-da520fe15562" />
+        <classShapeMoniker Id="66b0a81d-193e-46d8-883c-00249f7e5a5f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 35.1723453776042); (3.91666666666667 : 35.1723453776042 : JumpStart); (4.08333333333333 : 35.1723453776042 : JumpEnd); (4.79166616666667 : 35.1723453776042 : JumpStart); (4.95833283333333 : 35.1723453776042 : JumpEnd); (7.53125 : 35.1723453776042); (7.53125 : 36)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/AspNetUser/AspNetUser_AspNetUserRole" />
+      <nodes>
+        <classShapeMoniker Id="20da6035-57c2-4e62-ae4b-da520fe15562" />
+        <classShapeMoniker Id="558ec243-be90-4f5e-86b6-f10cd3f30beb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.75 : 4.47199625651042); (7.5 : 4.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstProduct/MstProduct_MstProductPackage" />
+      <nodes>
+        <classShapeMoniker Id="7116953b-5cec-4795-a109-4fef7a3cc781" />
+        <classShapeMoniker Id="3d393612-3870-4125-9e9b-70133d626d29" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.4815991210937); (2.82291666666667 : 11.4815991210937 : JumpStart); (3.08333333333333 : 11.4815991210937 : JumpEnd); (3.5 : 11.4815991210937)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnUserFavoritesSymbol" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="bb9c0fd8-c81e-435f-9dcc-a67c7af3c922" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.70076923076923 : 19.4725569661458); (2.84732443490112 : 19.6191121702777 : JumpStart); (3.05892556509888 : 19.8307133004755 : JumpEnd); (3.125 : 19.8967877353766); (3.125 : 30.2508048502604); (3.5 : 30.2508048502604)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_MstSymbolScreener" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="7893237d-e142-40f6-bc05-aff37b2f47b8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.90625 : 33.625); (2.90625 : 4.04970540364583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/AspNetUser/AspNetUser_MstUser" />
+      <nodes>
+        <classShapeMoniker Id="20da6035-57c2-4e62-ae4b-da520fe15562" />
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.5 : 1.72679768880208); (4.25 : 1.72679768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_SysAcessLog" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="d9f445a0-9f82-4ad8-bb63-5f5786e6360b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.5 : 3.66429768880208); (10.25 : 3.66429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstProductPackage/MstProductPackage_TrnAffiliate" />
+      <nodes>
+        <classShapeMoniker Id="3d393612-3870-4125-9e9b-70133d626d29" />
+        <classShapeMoniker Id="0516d8ed-e89e-4db9-a09e-b0a62477c029" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.5 : 2.84375); (10.25 : 2.84375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_TrnAffiliate" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="0516d8ed-e89e-4db9-a09e-b0a62477c029" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 12.6242496744792); (2.82291666666667 : 12.6242496744792 : JumpStart); (3.08333333333333 : 12.6242496744792 : JumpEnd); (6.5 : 12.6242496744792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnFavorite" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="f5c6ac2c-84d2-45ec-b36c-3582e8018805" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.171873 : 4.04970540364583); (2.171873 : 5.375); (2.82291666666667 : 5.375 : JumpStart); (3.08333333333333 : 5.375 : JumpEnd); (6.125 : 5.375); (6.125 : 11.4683728372396); (6.5 : 11.4683728372396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_TrnFavorite" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="f5c6ac2c-84d2-45ec-b36c-3582e8018805" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.5 : 4.8838525390625); (13.25 : 4.8838525390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstProductPackage/MstProductPackage_TrnSale" />
+      <nodes>
+        <classShapeMoniker Id="3d393612-3870-4125-9e9b-70133d626d29" />
+        <classShapeMoniker Id="70a84bb0-14b5-4a9d-964e-cce4d851ad6b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.5 : 2.53929768880208); (13.25 : 2.53929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_TrnSale" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="70a84bb0-14b5-4a9d-964e-cce4d851ad6b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 14.5392976888021); (2.82291666666667 : 14.5392976888021 : JumpStart); (3.08333333333333 : 14.5392976888021 : JumpEnd); (3.5 : 14.5392976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnSectorSymbol" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="a647a6e9-387b-4d77-a7e1-81b91155cc13" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 20.9368490375601); (2.84732443490112 : 20.839524602659 : JumpStart); (3.05892556509888 : 20.6279234724612 : JumpEnd); (3.06607443490112 : 20.620774602659 : JumpStart); (3.27767556509888 : 20.4091734724612 : JumpEnd); (3.3125 : 20.3743490375601); (3.3125 : 14.9651985332031); (3.5 : 14.9651985332031)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/TrnSector/TrnSector_TrnSectorSymbol" />
+      <nodes>
+        <classShapeMoniker Id="6382b7d7-6b11-473e-9f1a-9a07576f6428" />
+        <classShapeMoniker Id="a647a6e9-387b-4d77-a7e1-81b91155cc13" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 19.0792562523037); (2.82291666666667 : 19.0792562523037 : JumpStart); (3.08333333333333 : 19.0792562523037 : JumpEnd); (3.22916666666667 : 19.0792562523037 : JumpStart); (3.39583333333333 : 19.0792562523037 : JumpEnd); (3.5 : 19.0792562523037)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnStockEarning" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="2c71eab3-6ffa-4f24-ac27-6dbe38fc06de" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 19.4217867353766); (2.84732443490112 : 19.5191111702777 : JumpStart); (3.05892556509888 : 19.7307123004755 : JumpEnd); (3.25357443490112 : 19.9253611702777 : JumpStart); (3.37142556509888 : 20.0432123004755 : JumpEnd); (3.375 : 20.0467867353766); (3.375 : 23.1450512695313); (3.5 : 23.1450512695313)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnStockPrice" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="0730d68f-f11a-4d75-8604-d5439a1b1ab6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 19.4402482738381); (2.84732443490112 : 19.5375727087393 : JumpStart); (3.05892556509888 : 19.749173838937 : JumpEnd); (3.21875 : 19.9089982738381); (3.21875 : 26.5200512695313); (3.5 : 26.5200512695313)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnStockPriceIntraDay" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="db18b897-dbc1-467b-86a8-c3ea10f7712b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5390615 : 4.04970540364583); (2.5390615 : 5.125); (2.82291666666667 : 5.125 : JumpStart); (2.98958333333333 : 5.125 : JumpEnd); (3 : 5.125); (3 : 33.375); (4 : 33.375); (4 : 36.125); (3.5 : 36.125); (3.5 : 39.5680655924479); (3.75 : 39.5680655924479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_TrnUserAlert" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="f597ad9e-3077-415e-8f71-58169c7b85dd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 13.59375); (2.82291666666667 : 13.59375 : JumpStart); (3.08333333333333 : 13.59375 : JumpEnd); (6.5 : 13.59375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstSymbol/MstSymbol_TrnUserAlertSymbol" />
+      <nodes>
+        <classShapeMoniker Id="6ef5b739-ae59-44dd-bb80-acafac45cb00" />
+        <classShapeMoniker Id="8985901c-4fe4-4642-9676-c5d02d6b7559" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.8749995 : 36.375); (4.8749995 : 35.0112939453125); (6.75 : 35.0112939453125); (6.75 : 15.7131982421875); (6.25 : 15.7131982421875); (6.25 : 14.5597261210937); (6.5 : 14.5597261210937)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/TrnUserAlert/TrnUserAlert_TrnUserAlertSymbol" />
+      <nodes>
+        <classShapeMoniker Id="f597ad9e-3077-415e-8f71-58169c7b85dd" />
+        <classShapeMoniker Id="8985901c-4fe4-4642-9676-c5d02d6b7559" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.90625); (2.82291666666667 : 5.90625 : JumpStart); (3.08333333333333 : 5.90625 : JumpEnd); (3.59375 : 5.90625); (3.59375 : 10.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/TrnUserFavorite/TrnUserFavorite_TrnUserFavoritesSymbol" />
+      <nodes>
+        <classShapeMoniker Id="26d0dade-3956-4df9-943e-535a63cca4f7" />
+        <classShapeMoniker Id="bb9c0fd8-c81e-435f-9dcc-a67c7af3c922" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.7734365 : 4.04970540364583); (1.7734365 : 5.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/magentatraderdbDataContext/MstUser/MstUser_TrnUserFavorite" />
+      <nodes>
+        <classShapeMoniker Id="7bca90f3-cc08-4b69-bc0d-290aad6d8375" />
+        <classShapeMoniker Id="26d0dade-3956-4df9-943e-535a63cca4f7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
